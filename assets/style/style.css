@@ -1,0 +1,15 @@
+.header,.main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title{
+    font-size: 40px;
+}
+.li{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-decoration: line-through;
+}
